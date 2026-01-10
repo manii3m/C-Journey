@@ -1,10 +1,10 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 int main (){
     
     int cups;
     double price_per_cup, total_cost, discounted_price;
-
+1
     cout << "Enter the number of cups : ";
     cin >> cups;
 
@@ -13,7 +13,7 @@ int main (){
 
     total_cost = cups * price_per_cup;
 
-    //appling 5% discount if total price is above 100
+    // applying 5% discount if total price is above 100
 
     if (total_cost > 100) {
         discounted_price = total_cost - (total_cost * 0.05);
