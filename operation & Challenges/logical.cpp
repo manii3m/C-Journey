@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main (){
+int main () {
     
     bool isStudent ;
     int cups ;
@@ -13,7 +13,7 @@ int main (){
     if (isStudent || cups > 15) {
         cout << " You are eligible for a 20% discount on your purchase. " << endl;
     } else {
-        cout << " You are not eligible for a discount. " << endl;
+        cout << " You are not eligible for a discount. Please Buy Cups " << endl;
     }
 
     return 0;
