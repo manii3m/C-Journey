@@ -23,6 +23,7 @@ Welcome to my C++ learning repository! This project documents practical examples
   - Arithmetic operations
   - Assignment operators
   - Logical and relational operators
+- **Challenges - 2** - Additional challenge implementations and practice files
 
 ## 📁 Repository Structure
 
@@ -41,6 +42,13 @@ Cpp-Journey/
 │   ├── assign_operator.cpp
 │   ├── logical.cpp
 │   └── relational.cpp
+├── Challenges - 2/
+│   ├── task 1.cpp
+│   ├── task 2.cpp
+│   ├── task 3 (2nd form).cpp
+│   ├── task 3.cpp
+│   ├── task 4 ( my form ).cpp
+│   └── task 4.cpp
 ├── .vscode/
 │   └── tasks.json
 └── README.md
@@ -75,6 +83,7 @@ Or use the VS Code build task (Ctrl+Shift+B) to build the active file.
 | Variables & Constants | `Variable and Constant/Variable & Constant.cpp` | ✅ Complete |
 | Data Types | `Data Types/data_type.cpp` | ✅ Complete |
 | Operators & Challenges | `Operation and Challenges/*.cpp` | ✅ In Progress |
+| Challenges - 2 | `Challenges - 2/task 1.cpp`, `Challenges - 2/task 2.cpp`, `Challenges - 2/task 3 (2nd form).cpp`, `Challenges - 2/task 3.cpp`, `Challenges - 2/task 4 ( my form ).cpp`, `Challenges - 2/task 4.cpp` | ✅ Added |
 
 ## 🎓 What I'm Learning
 
@@ -115,4 +124,4 @@ This is a personal learning repository. Contributions are welcome — feel free 
 
 **Happy Learning! 🎉**
 
-*Last Updated: January 11, 2026*
+*Last Updated: January 12, 2026*
